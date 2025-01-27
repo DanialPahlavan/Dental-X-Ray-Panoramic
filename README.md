@@ -44,8 +44,7 @@ The notebook utilizes various tools and libraries, including:
 - Image enhancement can be resource-intensive. Use a system with sufficient computational power.
 
 ### 6. License
-Specify the license under which the notebook and its associated resources can be used.
-
+GNU 3 License
 ---
 
 For questions or contributions, feel free to open an issue or submit a pull request.
